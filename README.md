@@ -1,1 +1,1 @@
-﻿FrontEnd of our project's website
+﻿Frontend
