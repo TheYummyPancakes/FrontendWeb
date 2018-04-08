@@ -35,7 +35,7 @@ class App extends Component {
         this.fileUploadHandler= this.fileUploadHandler.bind(this);
     }
 
-
+//smt
     handleChange(event) {
         const target = event.target;
         const name = target.name;

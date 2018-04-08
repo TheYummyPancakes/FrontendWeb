@@ -1,1 +1,1 @@
-﻿Current repository on github: https://github.com/yav23/Hackaton2018FrontEnd
+﻿FrontEnd of our project's website
